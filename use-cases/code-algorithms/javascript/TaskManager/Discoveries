@@ -1,0 +1,57 @@
+EXERCISE PART 1 :
+
+2.1 The project is organised into different use cases and coding exercises. The use - cases folder contains different categories of tasks, such as algorithms,java, javascript and practical projects like a task manager. Each category contains exercises that focus on a particular programming language or problem solving concept. The README.md provides information about the project, while Git files such as .gitignore and .git support version control.
+
+2.2 TECHNOLOGIES :
+- Java : There's a Java folder and therefore Java exercises.
+- JavaScript : There's a JavaScript folder / tasks.
+- Node.js : It is likely used for running the JavaScript exercises locally, especially since i've been using Node to run my JavaScript code.
+- Git : The .Git folder shows the project is using Git for version control.
+- Github : Since the project is hosted / managed through Github.
+- Markdown : The README.md file uses markdown for documentation.
+
+
+FRAMEWORKS :
+- No specific framework has been identified yet from the files i have reviewed.
+
+
+2.3 The main components appear to be the use cases, code algorithms, Java exercises, JavaScript exercises and the task manager project. The README file also serves as the main documentation for the project.
+
+
+3.2  Initial Understanding:
+
+- My understanding is there are a list of both files and folders some of which are coding exercises.
+- There are different programming languages outlined by the files meaning the exercises can be done in separate programming languages.
+
+Questions:
+
+- What is the overall purpose of the project?
+- What are the main components of the project and what is their purpose? 
+
+
+AI ANALYSIS:
+
+- What the application does : It seems to be a collection of AI / code exercises and practical programming tasks, rather than one single application. The presence of use cases, algorithms, Java, JavaScript and a task manager suggests the repository is organised around different coding exercises.
+
+- Technology Stack : It appears to use Java, JavaScript, Node.js, Git, Github and markdown. No specific framework has been identified yet.
+
+- Folder structure : The folder structure seems to follow a category - based organisation, where the use - cases folder contains different types of programming exercises and projects, such as algorithms, Java, Javascript and the task manager.
+
+- Main folders : 
+
+1. Use cases/ : contains the different coding exercises.
+2. code algorithms/ : likely contains algorithm and problem solving exercises.
+3. java/ : contains Java based exercises.
+4.Javascript : contains Javascript exercises.
+5.Task manager : appears to be a practical application / project involving task management.
+6. README.md : project documentation and instructions.
+7..gitignore : specifies files Git should ignore.
+8..git/ : contains Git's version control information.
+
+
+4.1 Misconceptions :
+
+1. Thinking the project is one single application - It looks more like a collection of coding exercises and smaller projects / use cases.
+2. Thinking every folder is a framework - Folders such as Java, JavaScript and code - algorithms are categories or technologies, not necessarily frameworks.
+3. Assuming JavaScript requires package.json - packaje.json is common in Node.js projects, but a JavaScript exercise doesnt necessarily need one.
+4. Assuming there must be a framework - We havent seem evidence of frameworks like React, Express, or Spring Boot yet.
